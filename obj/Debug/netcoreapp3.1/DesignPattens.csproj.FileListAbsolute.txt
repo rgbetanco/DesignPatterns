@@ -1,0 +1,12 @@
+/Users/rgbetanco/Projects/DesignPattens/DesignPattens/bin/Debug/netcoreapp3.1/DesignPattens.deps.json
+/Users/rgbetanco/Projects/DesignPattens/DesignPattens/bin/Debug/netcoreapp3.1/DesignPattens.runtimeconfig.json
+/Users/rgbetanco/Projects/DesignPattens/DesignPattens/bin/Debug/netcoreapp3.1/DesignPattens.runtimeconfig.dev.json
+/Users/rgbetanco/Projects/DesignPattens/DesignPattens/bin/Debug/netcoreapp3.1/DesignPattens.dll
+/Users/rgbetanco/Projects/DesignPattens/DesignPattens/bin/Debug/netcoreapp3.1/DesignPattens.pdb
+/Users/rgbetanco/Projects/DesignPattens/DesignPattens/obj/Debug/netcoreapp3.1/DesignPattens.csprojAssemblyReference.cache
+/Users/rgbetanco/Projects/DesignPattens/DesignPattens/obj/Debug/netcoreapp3.1/DesignPattens.AssemblyInfoInputs.cache
+/Users/rgbetanco/Projects/DesignPattens/DesignPattens/obj/Debug/netcoreapp3.1/DesignPattens.AssemblyInfo.cs
+/Users/rgbetanco/Projects/DesignPattens/DesignPattens/obj/Debug/netcoreapp3.1/DesignPattens.csproj.CoreCompileInputs.cache
+/Users/rgbetanco/Projects/DesignPattens/DesignPattens/obj/Debug/netcoreapp3.1/DesignPattens.dll
+/Users/rgbetanco/Projects/DesignPattens/DesignPattens/obj/Debug/netcoreapp3.1/DesignPattens.pdb
+/Users/rgbetanco/Projects/DesignPattens/DesignPattens/obj/Debug/netcoreapp3.1/DesignPattens.genruntimeconfig.cache
